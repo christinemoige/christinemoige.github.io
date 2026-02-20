@@ -8,6 +8,6 @@ author_profile: true
 
 # Christine Moige -CV
 ---
-##Education
--##Bachelor in information Technology##
+## Education
+## Bachelor in information Technology##
 
