@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Christine Moige
+email: moigechristinenyayiemi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ ICT Support Specilaist|Data Analyst|AI Enthusiast
 twitter_username: username
-github_username: username
+github_username: christinemoige
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Christine Moige"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "An ICT Support Specialist and Data Analyst with strong experience in troubleshooting technical issues, managing network systems, and providing user support to ensure smooth organizational operations. Skilled in analyzing data, generating insightful reports, and using data-driven solutions to improve efficiency, performance, and decision-making"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
